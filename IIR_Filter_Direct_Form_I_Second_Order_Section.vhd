@@ -140,8 +140,8 @@ Begin
     
     Adder_Denumerator        <= Adder_Numerator_2 + Multiplier_Denumerator_1_Quantize + Multiplier_Denumerator_2_Quantize ;
     
---	Registerin Output Ports 
+--  Registering Output Ports 
     Output                   <= Output_1_Delay ;
---  %%%%%%%%%%%%%%%%%%%%%%%
+--  %%%%%%%%%%%%%%%%%%%%%%%%
     
 End Behavioral ;
