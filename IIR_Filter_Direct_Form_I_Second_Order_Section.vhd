@@ -142,6 +142,6 @@ Begin
     
 --  Registering Output Ports 
     Output                   <= Output_1_Delay ;
---  %%%%%%%%%%%%%%%%%%%%%%%%
+--  %%%%%%%%%%%%%%%%%%%%%%%
     
 End Behavioral ;
